@@ -22,6 +22,10 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2042%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -122,7 +126,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 13:38:14 UTC
+ Last Updated on 03/10/2026 13:52:56 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
