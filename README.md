@@ -69,22 +69,17 @@
 
 ### 📊 WakaTime & Activity Stats
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table border="0" width="100%"><tr><td width="50%" valign="top">
 
 <!--START_SECTION:waka_night-->
 <!--END_SECTION:waka_night-->
 
-    </td>
-    <td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 <!--START_SECTION:waka_day-->
 <!--END_SECTION:waka_day-->
 
-    </td>
-  </tr>
-</table>
+</td></tr></table>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
