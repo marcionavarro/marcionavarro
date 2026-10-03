@@ -20,6 +20,10 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marcionavarro&hide_border=true)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Let's connect? 🤝
 
 <p align="left">
