@@ -69,28 +69,22 @@
 
 ### 📊 WakaTime & Activity Stats
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2047%20mins-blue?style=flat)
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2042%20mins-blue?style=flat)
-
-<br>
-
-**🐱 My GitHub Data** 
-> 📦 690.2 kB Used in GitHub's Storage  
-> 🏆 372 Contributions in the Year 2026  
-> 💼 Opted to Hire  
-> 📜 78 Public Repositories | 🔑 11 Private Repositories  
-
-<br>
-
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
 
-**I'm a Night 🦉**
+<!--START_SECTION:waka_night-->
+<!--END_SECTION:waka_night-->
 
-```text
-🌞 Morning      367 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-🌆 Daytime      1025 commits  ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌃 Evening      1696 commits  ██████████░░░░░░░░░░░░░░░   40.94 % 
-🌙 Night        1055 commits  ██████░░░░░░░░░░░░░░░░░░░   25.46 %
+    </td>
+    <td width="50%" valign="top">
+
+<!--START_SECTION:waka_day-->
+<!--END_SECTION:waka_day-->
+
+    </td>
+  </tr>
+</table>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
