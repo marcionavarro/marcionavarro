@@ -22,6 +22,107 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 370 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 78 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                365 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+🌆 Daytime                1025 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+🌃 Evening                1697 commits        ██████████░░░░░░░░░░░░░░░   40.95 % 
+🌙 Night                  1057 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   594 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Tuesday                  546 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Wednesday                539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Thursday                 636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Friday                   715 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Saturday                 761 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Sunday                   353 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.63 % 
+Java                     2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 20 mins       ███████████████░░░░░░░░░░   59.88 % 
+IntelliJ IDEA            2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.40 % 
+Antigravity Desktop      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+
+🐱‍💻 Projects: 
+udemy-modern-angular22-wi2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
+udemy-modern_angular-form1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+arquitetura-hexagonal-por1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+spring-boot-ms-kafka     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+fun-with-signals         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+
+💻 Operating System: 
+Windows                  7 hrs 15 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 mins (3.77%)
+
+✍️ 332 lines written by AI, 796 lines written by hand (29.43% AI-written)
+
+🔤 49,645 Input Tokens, 13,360 Output Tokens
+
+💵 $1.48 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+Code                     333 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 29.43% of written lines came from AI
+📄 Detailed Prompter — average 604 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 79.49% of changed lines were hand-edited
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+PHP                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+```
+
+
+
+
+ Last Updated on 03/10/2026 13:38:14 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
