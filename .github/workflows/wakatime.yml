@@ -13,32 +13,10 @@ jobs:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      # Preenche a seção waka_night na coluna da esquerda
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "waka_night"
-          SHOW_SHORT_INFO: true
-          SHOW_LOC_CHART: false
-          SHOW_PROFILE_VIEWS: false
-
-      # Preenche a seção waka_day na coluna da direita
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "waka_day"
-          SHOW_SHORT_INFO: true
-          SHOW_LOC_CHART: false
-          SHOW_PROFILE_VIEWS: false
-
-      # Preenche o restante dos dados na seção principal abaixo
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "waka"
           SHOW_SHORT_INFO: true
           SHOW_LOC_CHART: false
           SHOW_PROFILE_VIEWS: false
