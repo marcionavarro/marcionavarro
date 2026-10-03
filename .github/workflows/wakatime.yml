@@ -2,9 +2,13 @@ name: WakaTime Readme
 
 on:
   schedule:
-    # Executa todos os dias à meia-noite
+    # Executa todos os dias à meia-noite (UTC)
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+# Permissão necessária para a Action fazer commit das alterações no seu README
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -15,7 +19,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: true
           SHOW_LOC_CHART: false
