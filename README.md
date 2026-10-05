@@ -65,52 +65,49 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.63 % 
-Java                     2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+TypeScript               2 hrs 10 mins       ███████████████░░░░░░░░░░   60.17 % 
+Java                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       ███████████████░░░░░░░░░░   59.88 % 
-IntelliJ IDEA            2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.40 % 
-Antigravity Desktop      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  2 hrs 31 mins       █████████████████░░░░░░░░   69.66 % 
+IntelliJ IDEA            55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Antigravity Desktop      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🐱‍💻 Projects: 
-udemy-modern-angular22-wi2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
-udemy-modern_angular-form1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-arquitetura-hexagonal-por1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-spring-boot-ms-kafka     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-fun-with-signals         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+udemy-modern-angular22-wi2 hrs 15 mins       ████████████████░░░░░░░░░   62.61 % 
+spring-boot-ms-kafka     55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+fun-with-signals         24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+site_portifolio          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  7 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (3.77%)
+⏱ AI Coding Time: 10 mins (4.81%)
 
-✍️ 332 lines written by AI, 796 lines written by hand (29.43% AI-written)
+✍️ 0 lines written by AI, 363 lines written by hand (0.0% AI-written)
 
-🔤 49,645 Input Tokens, 13,360 Output Tokens
+🔤 12,681 Input Tokens, 768 Output Tokens
 
-💵 $1.48 Estimated AI Cost This Week
+💵 $0.91 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Code                     333 lines           █████████████████████████   100.00 % 
+Code                     1 lines             █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 29.43% of written lines came from AI
-📄 Detailed Prompter — average 604 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,452 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 79.49% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +123,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 03:37:53 UTC
+ Last Updated on 05/10/2026 03:19:06 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
