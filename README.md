@@ -22,7 +22,7 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2026%20mins-blue?style=flat)
 
@@ -65,41 +65,39 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     2 hrs 45 mins       ██████████████░░░░░░░░░░░   56.00 % 
-TypeScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-XML                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Java                     5 hrs 28 mins       ██████████████████░░░░░░░   73.67 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.20 % 
-Antigravity IDE          1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   32.81 % 
-VS Code                  1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Antigravity Desktop      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+IntelliJ IDEA            5 hrs 24 mins       ██████████████████░░░░░░░   72.72 % 
+Antigravity IDE          1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   38.99 % 
-udemy-antigravity-ide    1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   31.23 % 
-udemy-modern-angular22-wi1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-icompras-servicos        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-site_portifolio          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+spring-boot-ms-kafka     5 hrs 17 mins       ██████████████████░░░░░░░   71.26 % 
+udemy-antigravity-ide    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+udemy-modern-angular22-wi24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+icompras-servicos        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (38.56%)
+⏱ AI Coding Time: 1 hr 43 mins (23.17%)
 
-✍️ 3,353 lines written by AI, 408 lines written by hand (89.15% AI-written)
+✍️ 3,353 lines written by AI, 657 lines written by hand (83.62% AI-written)
 
-🔤 3,207,680 Input Tokens, 118,242 Output Tokens
+🔤 3,194,999 Input Tokens, 117,474 Output Tokens
 
-💵 $7.51 Estimated AI Cost This Week
+💵 $7.49 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
 Sonnet                   2,095 lines         ████████████████░░░░░░░░░   62.46 % 
 Gemini                   1,141 lines         █████████░░░░░░░░░░░░░░░░   34.02 % 
@@ -108,10 +106,10 @@ Code                     1 lines             ░░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.15% of written lines came from AI
-📄 Detailed Prompter — average 617 characters per prompt
+🤖 AI-Driven — 83.62% of written lines came from AI
+📄 Detailed Prompter — average 533 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.99% of changed lines were hand-edited
+🚀 High AI Trust — 17.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +125,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 04:06:53 UTC
+ Last Updated on 07/10/2026 03:34:45 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
