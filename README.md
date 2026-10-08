@@ -65,33 +65,30 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     5 hrs 28 mins       ██████████████████░░░░░░░   73.67 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Java                     5 hrs 28 mins       ████████████████████░░░░░   78.01 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 24 mins       ██████████████████░░░░░░░   72.72 % 
-Antigravity IDE          1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+IntelliJ IDEA            5 hrs 24 mins       ███████████████████░░░░░░   77.01 % 
+Antigravity IDE          1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     5 hrs 17 mins       ██████████████████░░░░░░░   71.26 % 
-udemy-antigravity-ide    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-udemy-modern-angular22-wi24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-icompras-servicos        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+spring-boot-ms-kafka     5 hrs 17 mins       ███████████████████░░░░░░   75.46 % 
+udemy-antigravity-ide    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+icompras-servicos        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 💻 Operating System: 
-Windows                  7 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (23.17%)
+⏱ AI Coding Time: 1 hr 43 mins (24.54%)
 
-✍️ 3,353 lines written by AI, 657 lines written by hand (83.62% AI-written)
+✍️ 3,353 lines written by AI, 608 lines written by hand (84.65% AI-written)
 
 🔤 3,194,999 Input Tokens, 117,474 Output Tokens
 
@@ -106,10 +103,10 @@ Code                     1 lines             ░░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.62% of written lines came from AI
+🤖 AI-Driven — 84.65% of written lines came from AI
 📄 Detailed Prompter — average 533 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 17.52% of changed lines were hand-edited
+🚀 High AI Trust — 16.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +122,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 03:34:45 UTC
+ Last Updated on 08/10/2026 03:49:05 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
