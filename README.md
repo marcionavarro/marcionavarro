@@ -22,7 +22,7 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2026%20mins-blue?style=flat)
 
@@ -65,30 +65,30 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     5 hrs 28 mins       ████████████████████░░░░░   78.01 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Java                     6 hrs 15 mins       ████████████████████░░░░░   79.18 % 
+YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 24 mins       ███████████████████░░░░░░   77.01 % 
-Antigravity IDE          1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+IntelliJ IDEA            6 hrs 17 mins       ████████████████████░░░░░   79.58 % 
+Antigravity IDE          1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     5 hrs 17 mins       ███████████████████░░░░░░   75.46 % 
-udemy-antigravity-ide    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-icompras-servicos        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+spring-boot-ms-kafka     6 hrs 10 mins       ████████████████████░░░░░   78.21 % 
+udemy-antigravity-ide    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+icompras-servicos        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Windows                  7 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (24.54%)
+⏱ AI Coding Time: 1 hr 43 mins (21.79%)
 
-✍️ 3,353 lines written by AI, 608 lines written by hand (84.65% AI-written)
+✍️ 3,353 lines written by AI, 693 lines written by hand (82.87% AI-written)
 
 🔤 3,194,999 Input Tokens, 117,474 Output Tokens
 
@@ -103,10 +103,10 @@ Code                     1 lines             ░░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.65% of written lines came from AI
+🤖 AI-Driven — 82.87% of written lines came from AI
 📄 Detailed Prompter — average 533 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 16.11% of changed lines were hand-edited
+🚀 High AI Trust — 17.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +122,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 03:54:22 UTC
+ Last Updated on 10/10/2026 03:38:08 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
