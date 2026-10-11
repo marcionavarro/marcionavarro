@@ -22,7 +22,7 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2026%20mins-blue?style=flat)
 
@@ -65,48 +65,48 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     6 hrs 15 mins       ████████████████████░░░░░   79.18 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Java                     6 hrs 42 mins       ██████████████████░░░░░░░   71.06 % 
+YAML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 17 mins       ████████████████████░░░░░   79.58 % 
-Antigravity IDE          1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+IntelliJ IDEA            7 hrs 10 mins       ███████████████████░░░░░░   76.00 % 
+Antigravity IDE          2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     6 hrs 10 mins       ████████████████████░░░░░   78.21 % 
-udemy-antigravity-ide    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-icompras-servicos        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+spring-boot-ms-kafka     7 hrs 3 mins        ███████████████████░░░░░░   74.85 % 
+udemy-antigravity-ide    2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+icompras-servicos        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (21.79%)
+⏱ AI Coding Time: 2 hrs 22 mins (25.15%)
 
-✍️ 3,353 lines written by AI, 693 lines written by hand (82.87% AI-written)
+✍️ 11,846 lines written by AI, 747 lines written by hand (94.07% AI-written)
 
-🔤 3,194,999 Input Tokens, 117,474 Output Tokens
+🔤 5,351,196 Input Tokens, 220,300 Output Tokens
 
-💵 $7.49 Estimated AI Cost This Week
+💵 $13.17 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
-Sonnet                   2,095 lines         ████████████████░░░░░░░░░   62.46 % 
-Gemini                   1,141 lines         █████████░░░░░░░░░░░░░░░░   34.02 % 
-Oss                      117 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Code                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   6,866 lines         ██████████████░░░░░░░░░░░   57.96 % 
+Opus                     2,768 lines         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Sonnet                   2,095 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Oss                      117 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.87% of written lines came from AI
-📄 Detailed Prompter — average 533 characters per prompt
+🤖 AI-Driven — 94.07% of written lines came from AI
+📄 Detailed Prompter — average 1,124 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 17.92% of changed lines were hand-edited
+🚀 High AI Trust — 6.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +122,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 03:38:08 UTC
+ Last Updated on 11/10/2026 03:11:07 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
