@@ -22,9 +22,9 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,50 +65,47 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     7 hrs 34 mins       ███████████████████░░░░░░   75.74 % 
-YAML                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Java                     7 hrs 17 mins       ████████████████████░░░░░   81.00 % 
+YAML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+XML                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 3 mins        ████████████████████░░░░░   80.59 % 
-Antigravity IDE          1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+IntelliJ IDEA            8 hrs 23 mins       ███████████████████████░░   93.09 % 
+Antigravity IDE          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Copilot CLI              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     7 hrs 57 mins       ████████████████████░░░░░   79.58 % 
-udemy-antigravity-ide    1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-icompras-servicos        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+spring-boot-ms-kafka     8 hrs 41 mins       ████████████████████████░   96.44 % 
+udemy-antigravity-ide    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+icompras-servicos        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  10 hrs              █████████████████████████   100.00 % 
+Windows                  9 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 29 mins (24.85%)
+⏱ AI Coding Time: 1 hr 26 mins (16.05%)
 
-✍️ 6,121 lines written by AI, 815 lines written by hand (88.25% AI-written)
+✍️ 2,776 lines written by AI, 765 lines written by hand (78.4% AI-written)
 
-🔤 4,959,291 Input Tokens, 181,277 Output Tokens
+🔤 240,717 Input Tokens, 96,664 Output Tokens
 
-💵 $13.09 Estimated AI Cost This Week
+💵 $6.30 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 14 AI Prompts
+🧠 5 AI Sessions, 15 AI Prompts
 
-Opus                     2,768 lines         ███████████░░░░░░░░░░░░░░   45.22 % 
-Sonnet                   2,095 lines         █████████░░░░░░░░░░░░░░░░   34.23 % 
-Gemini                   1,141 lines         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Oss                      117 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,768 lines         █████████████████████████   99.03 % 
+Code                     27 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.25% of written lines came from AI
-📄 Detailed Prompter — average 1,181 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 12.28% of changed lines were hand-edited
+🤖 AI-Driven — 78.4% of written lines came from AI
+📄 Detailed Prompter — average 1,479 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 22.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +121,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 03:34:20 UTC
+ Last Updated on 13/10/2026 04:48:44 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
