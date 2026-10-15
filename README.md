@@ -65,51 +65,50 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     6 hrs 32 mins       ██████████████░░░░░░░░░░░   54.51 % 
-XML                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-YAML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-TypeScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Java                     8 hrs 5 mins        ███████████████░░░░░░░░░░   58.93 % 
+XML                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+TypeScript               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+YAML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 21 mins       ███████████████████░░░░░░   77.92 % 
-Antigravity IDE          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-VS Code                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Copilot CLI              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+IntelliJ IDEA            11 hrs              ████████████████████░░░░░   80.18 % 
+Antigravity IDE          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+VS Code                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Copilot CLI              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     9 hrs 56 mins       █████████████████████░░░░   82.87 % 
-udemy-modern-angular22-wi1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-udemy-antigravity-ide    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-icompras-servicos        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+spring-boot-ms-kafka     11 hrs 35 mins      █████████████████████░░░░   84.50 % 
+udemy-antigravity-ide    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+udemy-modern-angular22-wi1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  12 hrs              █████████████████████████   100.00 % 
+Windows                  13 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 51 mins (23.76%)
+⏱ AI Coding Time: 2 hrs 55 mins (21.28%)
 
-✍️ 5,837 lines written by AI, 981 lines written by hand (85.61% AI-written)
+✍️ 3,141 lines written by AI, 1,205 lines written by hand (72.27% AI-written)
 
-🔤 659,800 Input Tokens, 215,112 Output Tokens
+🔤 827,319 Input Tokens, 218,970 Output Tokens
 
-💵 $13.36 Estimated AI Cost This Week
+💵 $13.35 Estimated AI Cost This Week
 
 🧠 9 AI Sessions, 26 AI Prompts
 
-Opus                     5,619 lines         ████████████████████████░   95.89 % 
-Gemini                   171 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Code                     70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Opus                     3,907 lines         ███████████████████████░░   92.58 % 
+Gemini                   243 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Code                     70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.61% of written lines came from AI
-📄 Detailed Prompter — average 1,044 characters per prompt
+🤖 AI-Driven — 72.27% of written lines came from AI
+📄 Detailed Prompter — average 780 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.62% of changed lines were hand-edited
+🚀 High AI Trust — 38.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +124,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 02:57:01 UTC
+ Last Updated on 15/10/2026 02:36:18 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
