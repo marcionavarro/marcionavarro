@@ -22,9 +22,9 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,34 +65,34 @@ Sunday                   353 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     7 hrs 18 mins       ██████████████░░░░░░░░░░░   56.90 % 
-XML                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-TypeScript               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-YAML                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Java                     7 hrs 53 mins       ███████████████░░░░░░░░░░   58.12 % 
+XML                      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+TypeScript               1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 7 mins       ████████████████████░░░░░   78.81 % 
-Antigravity IDE          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-VS Code                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Copilot CLI              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+IntelliJ IDEA            10 hrs 35 mins      ███████████████████░░░░░░   77.95 % 
+VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Antigravity IDE          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Copilot CLI              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     10 hrs 42 mins      █████████████████████░░░░   83.44 % 
-udemy-antigravity-ide    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-udemy-modern-angular22-wi1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+spring-boot-ms-kafka     11 hrs 10 mins      █████████████████████░░░░   82.33 % 
+udemy-modern-angular22-wi1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+udemy-antigravity-ide    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  12 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (22.74%)
+⏱ AI Coding Time: 2 hrs 55 mins (21.5%)
 
-✍️ 3,141 lines written by AI, 1,120 lines written by hand (73.72% AI-written)
+✍️ 3,141 lines written by AI, 1,228 lines written by hand (71.89% AI-written)
 
 🔤 827,319 Input Tokens, 218,970 Output Tokens
 
@@ -105,10 +105,10 @@ Gemini                   243 lines           █░░░░░░░░░░�
 Code                     70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.72% of written lines came from AI
+🤖 AI-Driven — 71.89% of written lines came from AI
 📄 Detailed Prompter — average 780 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 37.32% of changed lines were hand-edited
+🚀 High AI Trust — 42.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 02:22:50 UTC
+ Last Updated on 18/10/2026 02:22:41 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
