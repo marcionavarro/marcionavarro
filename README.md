@@ -22,15 +22,15 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 700.5 kB Used in GitHub's Storage 
  > 
-> 🏆 442 Contributions in the Year 2026
+> 🏆 446 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -41,21 +41,21 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-🌆 Daytime                1053 commits        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-🌃 Evening                1777 commits        ██████████░░░░░░░░░░░░░░░   41.23 % 
-🌙 Night                  1103 commits        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+🌞 Morning                377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+🌆 Daytime                1059 commits        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+🌃 Evening                1788 commits        ██████████░░░░░░░░░░░░░░░   41.22 % 
+🌙 Night                  1114 commits        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   633 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Tuesday                  559 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Wednesday                548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Thursday                 646 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Friday                   726 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Saturday                 797 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Sunday                   401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Monday                   640 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Tuesday                  561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Wednesday                550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Thursday                 647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Friday                   730 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Saturday                 805 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Sunday                   405 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 ```
 
 
@@ -65,50 +65,51 @@ Sunday                   401 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-Java                     1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-JSON                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-HTML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Java                     2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+TypeScript               2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+HTML                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
-IntelliJ IDEA            1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-Copilot CLI              1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Antigravity IDE          1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+VS Code                  3 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
+IntelliJ IDEA            3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.34 % 
+Copilot CLI              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Antigravity IDE          1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-angular22                1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-udemy-github-copilot-do-z1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-udemy-angular19          1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-udemy-antigravity-ide    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+spring-boot-ms-kafka     3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
+angular22                2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+udemy-github-copilot-do-z1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+udemy-angular19          1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+udemy-antigravity-ide    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 
 💻 Operating System: 
-Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (30.03%)
+⏱ AI Coding Time: 2 hrs 47 mins (28.71%)
 
-✍️ 876 lines written by AI, 659 lines written by hand (57.07% AI-written)
+✍️ 945 lines written by AI, 802 lines written by hand (54.09% AI-written)
 
-🔤 2,213,973 Input Tokens, 568,425 Output Tokens
+🔤 4,287,873 Input Tokens, 889,787 Output Tokens
 
-💵 $2.26 Estimated AI Cost This Week
+💵 $4.06 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 21 AI Prompts
+🧠 14 AI Sessions, 26 AI Prompts
 
-GPT                      501 lines           █████████████░░░░░░░░░░░░   53.30 % 
-Gemini                   439 lines           ████████████░░░░░░░░░░░░░   46.70 % 
+GPT                      572 lines           ██████████████░░░░░░░░░░░   56.58 % 
+Gemini                   439 lines           ███████████░░░░░░░░░░░░░░   43.42 % 
+Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.07% of written lines came from AI
-📝 Concise Prompter — average 295 characters per prompt
+⚖️ Balanced with AI — 54.09% of written lines came from AI
+📝 Concise Prompter — average 312 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 59.86% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +125,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 02:44:38 UTC
+ Last Updated on 25/10/2026 02:34:06 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
