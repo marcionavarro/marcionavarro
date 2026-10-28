@@ -22,7 +22,7 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2044%20mins-blue?style=flat)
 
@@ -65,49 +65,48 @@ Sunday                   413 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.38 % 
-TypeScript               2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-HTML                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Java                     4 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
+TypeScript               2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+HTML                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 58 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
-VS Code                  5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.50 % 
-Copilot CLI              1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+IntelliJ IDEA            5 hrs 58 mins       █████████████░░░░░░░░░░░░   50.06 % 
+VS Code                  5 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.45 % 
+Copilot CLI              46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     6 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.29 % 
-angular22                2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-udemy-modern-angular22-wi1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-udemy-github-copilot-do-z1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-udemy-angular19          1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+spring-boot-ms-kafka     6 hrs 30 mins       ██████████████░░░░░░░░░░░   54.40 % 
+angular22                2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+udemy-modern-angular22-wi1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+udemy-angular19          1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 💻 Operating System: 
-Windows                  13 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (19.53%)
+⏱ AI Coding Time: 1 hr 20 mins (11.2%)
 
-✍️ 1,151 lines written by AI, 1,224 lines written by hand (48.46% AI-written)
+✍️ 956 lines written by AI, 1,224 lines written by hand (43.85% AI-written)
 
-🔤 3,991,729 Input Tokens, 878,508 Output Tokens
+🔤 2,568,485 Input Tokens, 420,959 Output Tokens
 
-💵 $6.70 Estimated AI Cost This Week
+💵 $5.99 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 30 AI Prompts
+🧠 9 AI Sessions, 16 AI Prompts
 
-Code                     588 lines           █████████████░░░░░░░░░░░░   50.69 % 
-GPT                      572 lines           ████████████░░░░░░░░░░░░░   49.31 % 
+Code                     588 lines           ███████████████░░░░░░░░░░   60.93 % 
+GPT                      377 lines           ██████████░░░░░░░░░░░░░░░   39.07 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.46% of written lines came from AI
-📝 Concise Prompter — average 344 characters per prompt
+⚖️ Balanced with AI — 43.85% of written lines came from AI
+📝 Concise Prompter — average 450 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 67.59% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +122,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 03:08:11 UTC
+ Last Updated on 28/10/2026 03:20:50 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
