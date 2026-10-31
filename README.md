@@ -65,48 +65,47 @@ Sunday                   413 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.67 % 
-TypeScript               2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-HTML                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Java                     4 hrs 1 min         ████████████░░░░░░░░░░░░░   48.20 % 
+TypeScript               1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+HTML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+XML                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.26 % 
-IntelliJ IDEA            5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.93 % 
-Copilot CLI              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+IntelliJ IDEA            5 hrs 2 mins        ███████████████░░░░░░░░░░   60.37 % 
+VS Code                  2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
+Copilot CLI              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     5 hrs 33 mins       █████████████░░░░░░░░░░░░   50.65 % 
-angular22                2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-udemy-modern-angular22-wi1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-udemy-angular19          1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+spring-boot-ms-kafka     5 hrs 33 mins       █████████████████░░░░░░░░   66.58 % 
+udemy-modern-angular22-wi1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+angular22                1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 
 💻 Operating System: 
-Windows                  10 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (11.93%)
+⏱ AI Coding Time: 1 hr 3 mins (12.7%)
 
-✍️ 955 lines written by AI, 1,131 lines written by hand (45.78% AI-written)
+✍️ 656 lines written by AI, 729 lines written by hand (47.36% AI-written)
 
-🔤 2,568,485 Input Tokens, 420,959 Output Tokens
+🔤 2,175,050 Input Tokens, 367,766 Output Tokens
 
-💵 $5.99 Estimated AI Cost This Week
+💵 $5.98 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 15 AI Prompts
+🧠 6 AI Sessions, 12 AI Prompts
 
-Code                     588 lines           ███████████████░░░░░░░░░░   61.00 % 
-GPT                      376 lines           ██████████░░░░░░░░░░░░░░░   39.00 % 
+Code                     588 lines           ██████████████████████░░░   89.23 % 
+GPT                      71 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.78% of written lines came from AI
-📝 Concise Prompter — average 470 characters per prompt
+⚖️ Balanced with AI — 47.36% of written lines came from AI
+📝 Concise Prompter — average 398 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 70.69% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 69.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +121,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 03:47:48 UTC
+ Last Updated on 31/10/2026 03:31:55 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
