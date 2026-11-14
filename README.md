@@ -22,15 +22,11 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%207%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2044%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 701.2 kB Used in GitHub's Storage 
+> 📦 707.9 kB Used in GitHub's Storage 
  > 
-> 🏆 451 Contributions in the Year 2026
+> 🏆 463 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -41,21 +37,21 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-🌆 Daytime                1059 commits        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-🌃 Evening                1800 commits        ██████████░░░░░░░░░░░░░░░   41.29 % 
-🌙 Night                  1123 commits        ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+🌞 Morning                378 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌆 Daytime                1069 commits        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌃 Evening                1808 commits        ██████████░░░░░░░░░░░░░░░   41.23 % 
+🌙 Night                  1130 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   645 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Tuesday                  561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Wednesday                550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Thursday                 647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Friday                   733 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Saturday                 809 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Sunday                   414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Monday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Tuesday                  561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Wednesday                550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Thursday                 651 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Friday                   735 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Saturday                 821 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Sunday                   419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 ```
 
 
@@ -65,46 +61,50 @@ Sunday                   414 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     2 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.37 % 
-TypeScript               57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-HTML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+TypeScript               15 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.17 % 
+Java                     6 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+HTML                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Markdown                 1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+JSON                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 39 mins       ███████████████░░░░░░░░░░   58.34 % 
-VS Code                  1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   34.11 % 
-Copilot CLI              20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+VS Code                  15 hrs 32 mins      ███████████░░░░░░░░░░░░░░   43.33 % 
+Copilot CLI              14 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.67 % 
+IntelliJ IDEA            5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Copilot                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-spring-boot-ms-kafka     2 hrs 59 mins       ████████████████░░░░░░░░░   65.80 % 
-udemy-modern-angular22-wi1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   34.20 % 
+eclv-fed-contract        18 hrs 26 mins      █████████████░░░░░░░░░░░░   51.41 % 
+nestjs-restapi-com-typeor5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+eclv-srv-contract-orchest3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+eclv-bff-contract        2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+angular22                2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 
 💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  35 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (9.63%)
+⏱ AI Coding Time: 19 hrs 28 mins (54.27%)
 
-✍️ 587 lines written by AI, 424 lines written by hand (58.06% AI-written)
+✍️ 3,799 lines written by AI, 1,354 lines written by hand (73.72% AI-written)
 
-🔤 101,150 Input Tokens, 46,404 Output Tokens
+🔤 9,277,275 Input Tokens, 769,714 Output Tokens
 
-💵 $5.90 Estimated AI Cost This Week
+💵 $73.18 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 45 AI Sessions, 137 AI Prompts
 
-Code                     588 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   2,320 lines         █████████████░░░░░░░░░░░░   53.48 % 
+GPT                      2,018 lines         ████████████░░░░░░░░░░░░░   46.52 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.06% of written lines came from AI
-📝 Concise Prompter — average 410 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 66.46% of changed lines were hand-edited
+🤖 AI-Driven — 73.72% of written lines came from AI
+📚 Verbose Prompter — average 3,497 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 33.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +120,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 03:34:41 UTC
+ Last Updated on 14/11/2026 13:58:03 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
