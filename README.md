@@ -22,7 +22,7 @@ My name is Marcio Navarro. I work as a Desenvolvedor Fullstack at Freelancer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs-blue?style=flat)
 
@@ -65,50 +65,50 @@ Sunday                   422 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               16 hrs 13 mins      █████████████░░░░░░░░░░░░   53.90 % 
-HTML                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Java                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Markdown                 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+TypeScript               14 hrs 22 mins      ██████████████░░░░░░░░░░░   57.04 % 
+Java                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+HTML                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 42 mins      ███████████░░░░░░░░░░░░░░   42.21 % 
-Copilot CLI              7 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-WebStorm                 7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-IntelliJ IDEA            1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Copilot                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+VS Code                  8 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+WebStorm                 7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Copilot CLI              7 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+IntelliJ IDEA            2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Copilot                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 Projects: 
-eclv-fed-contract        13 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.03 % 
-angular22                5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-curso-reactjs19-e-nextjs14 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-nestjs-restapi-com-typeor3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-eclv-srv-contract-orchest2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+eclv-fed-contract        13 hrs 33 mins      █████████████░░░░░░░░░░░░   53.74 % 
+curso-reactjs19-e-nextjs14 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+nestjs-restapi-com-typeor3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+eclv-srv-contract-orchest2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+eclv-bff-contract        56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 💻 Operating System: 
-Windows                  30 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  25 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 58 mins (36.45%)
+⏱ AI Coding Time: 9 hrs 38 mins (38.26%)
 
-✍️ 1,055 lines written by AI, 2,096 lines written by hand (33.48% AI-written)
+✍️ 198 lines written by AI, 1,867 lines written by hand (9.59% AI-written)
 
-🔤 12,309,117 Input Tokens, 5,128,662 Output Tokens
+🔤 11,878,550 Input Tokens, 1,015,920 Output Tokens
 
-💵 $378.59 Estimated AI Cost This Week
+💵 $378.49 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 105 AI Prompts
+🧠 22 AI Sessions, 95 AI Prompts
 
-GPT                      1,261 lines         █████████████████████████   100.00 % 
+GPT                      344 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.48% of written lines came from AI
-📝 Concise Prompter — average 294 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 71.25% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 9.59% of written lines came from AI
+📝 Concise Prompter — average 303 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 88.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 05:00:40 UTC
+ Last Updated on 22/11/2026 04:21:17 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect? 🤝
